@@ -1,0 +1,136 @@
+Query: discover hosts
+Predicted Output: -Pn
+Feedback: yes
+==============================
+Query: scan most common ports
+Predicted Output: --top-ports <number>
+Feedback: yes
+==============================
+Query: udp scan
+Predicted Output: -sU
+Feedback: yes
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: close
+==============================
+Query: 
+Predicted Output: -h
+Feedback: 
+==============================
+Query: 
+Predicted Output: -h
+Feedback: 
+==============================
+Query: 
+Predicted Output: -h
+Feedback: help
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: close
+==============================
+Query: os detection
+Predicted Output: -A
+Feedback: yes
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: probe scan
+Predicted Output: -sV
+Feedback: close
+==============================
+Query: udp scan
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: udp scan
+Predicted Output: -sU
+Feedback: yes
+==============================
+Query: ping scan
+Predicted Output: -sn
+Feedback: yes
+==============================
+Query: udp scan
+Predicted Output: -sU
+Feedback: yes
+==============================
+Query: ping scan
+Predicted Output: -sn
+Feedback: yes
+==============================
+Query: http proxy scan and os detection
+Predicted Output: --proxies <url1,[url2],...>
+Feedback: yes
+==============================
+Query: ghost mode scan
+Predicted Output: --interactive
+Feedback: no
+==============================
+Query: enable push
+Predicted Output: --interactive
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: --interactive
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: --interactive
+Feedback: exit
+==============================
+Query: os detection
+Predicted Output: -A
+Feedback: detect os
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: detect os
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: os detection
+Predicted Output: -sV
+Feedback: no
+==============================
+Query: ping scan
+Predicted Output: -sn
+Feedback: yes
+==============================
+Query: quick scan
+Predicted Output: -F
+Feedback: yes
+==============================
